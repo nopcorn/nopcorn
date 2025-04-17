@@ -5,3 +5,9 @@
     ||||    /  
     `--'     
 ```
+
+### Github Vulnerability Disclosures
+
+|Identifier|Severity|Repo|Title|
+|----------|--------|----|-----|
+| `GHSA-h4c9-2c5c-fwfc` | Critical | [pex-tool/pex](https://github.com/pex-tool/pex) | [Responsible Disclosure of Github Token Compromise in Pex Repository](https://github.com/pex-tool/pex/security/advisories/GHSA-h4c9-2c5c-fwfc) |
