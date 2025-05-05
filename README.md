@@ -12,6 +12,7 @@
 - `CVE-2025-32958`: [Adept exposed the GITHUB_TOKEN in workflow run artifact](https://nvd.nist.gov/vuln/detail/CVE-2025-32958) in [AdeptLanguage/Adept](https://github.com/AdeptLanguage/Adept)
 - `GHSA-h4c9-2c5c-fwfc`: [Github Token Compromise in Pex Repository](https://github.com/pex-tool/pex/security/advisories/GHSA-h4c9-2c5c-fwfc) in [pex-tool/pex](https://github.com/pex-tool/pex)
 - `GHSA-h6rw-378w-jf2v`: pending
+- `GHSA-w4f2-8vv5-2338`: pending
 - `GHSA-8ffm-p88r-g625`: pending
 - `GHSA-535w-4488-jc7p`: pending
 - `GHSA-35g9-52wf-83hw`: pending
