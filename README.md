@@ -10,8 +10,8 @@
 
 - `CVE-2025-32953`: [Exposure of the GITHUB_TOKEN in workflow run artifact](https://www.cve.org/CVERecord?id=CVE-2025-32953) in [udo-munk/z80pack](https://github.com/udo-munk/z80pack)
 - `CVE-2025-32958`: [Adept exposed the GITHUB_TOKEN in workflow run artifact](https://nvd.nist.gov/vuln/detail/CVE-2025-32958) in [AdeptLanguage/Adept](https://github.com/AdeptLanguage/Adept)
+- `CVE-2025-46820`: [Exposure of the GITHUB_TOKEN in Dom workflow run artifact](https://www.cve.org/CVERecord?id=CVE-2025-46820) in [phpgt/Dom](https://github.com/phpgt/Dom)
 - `GHSA-h4c9-2c5c-fwfc`: [Github Token Compromise in Pex Repository](https://github.com/pex-tool/pex/security/advisories/GHSA-h4c9-2c5c-fwfc) in [pex-tool/pex](https://github.com/pex-tool/pex)
-- `GHSA-cwj7-6v67-2cm4`: [Exposure of the GITHUB_TOKEN in Dom workflow run artifact](https://github.com/phpgt/Dom/security/advisories/GHSA-cwj7-6v67-2cm4) in [phpgt/Dom](https://github.com/phpgt/Dom)
 - `GHSA-h6rw-378w-jf2v`: pending
 - `GHSA-w4f2-8vv5-2338`: pending
 - `GHSA-8ffm-p88r-g625`: pending
