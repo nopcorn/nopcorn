@@ -1,16 +1,8 @@
-
-```
-   .-~~-.    
-  (_^..^_)    0x64325673593239745a534230627942746553426e6158526f64574967584867354d413d3d
-    ||||    /  
-    `--'     
-```
-
 # Github Security Research
 
 - `CVE-2025-32953`: [Exposure of the GITHUB_TOKEN in workflow run artifact](https://www.cve.org/CVERecord?id=CVE-2025-32953) in [udo-munk/z80pack](https://github.com/udo-munk/z80pack)
 - `CVE-2025-32958`: [Adept exposed the GITHUB_TOKEN in workflow run artifact](https://nvd.nist.gov/vuln/detail/CVE-2025-32958) in [AdeptLanguage/Adept](https://github.com/AdeptLanguage/Adept)
-- `CVE-2025-46820`: [Exposure of the GITHUB_TOKEN in Dom workflow run artifact](https://www.cve.org/CVERecord?id=CVE-2025-46820) in [phpgt/Dom](https://github.com/phpgt/Dom)
+- `CVE-2025-46820`: [phpgt/Dom exposes the GITHUB_TOKEN in Dom workflow run artifact](https://www.cve.org/CVERecord?id=CVE-2025-46820) in [phpgt/Dom](https://github.com/phpgt/Dom)
 - `GHSA-h4c9-2c5c-fwfc`: [Github Token Compromise in Pex Repository](https://github.com/pex-tool/pex/security/advisories/GHSA-h4c9-2c5c-fwfc) in [pex-tool/pex](https://github.com/pex-tool/pex)
 - `GHSA-h6rw-378w-jf2v`: pending
 - `GHSA-w4f2-8vv5-2338`: pending
