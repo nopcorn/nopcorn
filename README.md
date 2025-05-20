@@ -11,4 +11,3 @@
 - `GHSA-35g9-52wf-83hw`: pending
 - `GHSA-q656-gjrm-9mh5`: pending
 - `GHSA-f78v-x25j-8x42`: pending
-- `GHSA-8mc7-xrm2-2p26`: pending
