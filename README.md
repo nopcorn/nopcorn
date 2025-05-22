@@ -11,3 +11,4 @@
 - `GHSA-35g9-52wf-83hw`: pending
 - `GHSA-q656-gjrm-9mh5`: pending
 - `GHSA-f78v-x25j-8x42`: pending
+- [Apache Security Team Credit](https://security.apache.org/blog/credits/)
