@@ -12,3 +12,4 @@
 - `GHSA-q656-gjrm-9mh5`: pending
 - `GHSA-f78v-x25j-8x42`: pending
 - [Apache Security Team Credit](https://security.apache.org/blog/credits/)
+- [nginx/F5 Credit](https://my.f5.com/manage/s/article/K75282801)
