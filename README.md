@@ -6,10 +6,6 @@
 - `GHSA-h4c9-2c5c-fwfc`: [Github Token Compromise in Pex Repository](https://github.com/pex-tool/pex/security/advisories/GHSA-h4c9-2c5c-fwfc) in [pex-tool/pex](https://github.com/pex-tool/pex)
 - `GHSA-h6rw-378w-jf2v`: [Leaking of High Permission GITHUB_TOKEN in Workflow Artifact](https://github.com/openebs/openebs/security/advisories/GHSA-h6rw-378w-jf2v) in [openebs/mayastor](https://github.com/openebs/mayastor)
 - `GHSA-w4f2-8vv5-2338`: [Leaking of High Permission GITHUB_TOKEN in Workflow Artifact](https://github.com/openebs/openebs/security/advisories/GHSA-w4f2-8vv5-2338) in [openebs/mayastor-control-plane](https://github.com/openebs/mayastor-control-plane)
-- `GHSA-8ffm-p88r-g625`: pending
-- `GHSA-535w-4488-jc7p`: pending
-- `GHSA-35g9-52wf-83hw`: pending
-- `GHSA-q656-gjrm-9mh5`: pending
-- `GHSA-f78v-x25j-8x42`: pending
+- `GHSA-6xqr-4q5g-xc7x`: [Exposure of the GITHUB_TOKEN in wazuh workflow run artifact](https://github.com/wazuh/wazuh/security/advisories/GHSA-6xqr-4q5g-xc7x) in [wazuh/wazuh](https://github.com/wazuh/wazuh)
 - [Apache Security Team Credit](https://security.apache.org/blog/credits/)
 - [nginx/F5 Credit](https://my.f5.com/manage/s/article/K75282801)
