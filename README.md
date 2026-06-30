@@ -1,4 +1,4 @@
-# Github Security Research
+# Security Research
 
 - `CVE-2025-32953`: [Exposure of the GITHUB_TOKEN in workflow run artifact](https://www.cve.org/CVERecord?id=CVE-2025-32953) in [udo-munk/z80pack](https://github.com/udo-munk/z80pack)
 - `CVE-2025-32958`: [Adept exposed the GITHUB_TOKEN in workflow run artifact](https://nvd.nist.gov/vuln/detail/CVE-2025-32958) in [AdeptLanguage/Adept](https://github.com/AdeptLanguage/Adept)
